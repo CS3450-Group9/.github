@@ -5,4 +5,4 @@ Study of the fundamentals of software engineering principles and practices, incl
 * [Carter Watson](https://github.com/cartwatson)
 * Caleb Leavitt
 * [Caden Maxwell](https://github.com/caden-maxwell)
-* Joe Giles
+* [Joe Giles](https://github.com/jeonix)
