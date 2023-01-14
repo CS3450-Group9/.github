@@ -4,5 +4,5 @@ Study of the fundamentals of software engineering principles and practices, incl
 ## Group Members
 * [Carter Watson](https://github.com/cartwatson)
 * Caleb Leavitt
-* Caden Maxwell
+* [Caden Maxwell](https://github.com/caden-maxwell)
 * Joe Giles
