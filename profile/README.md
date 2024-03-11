@@ -2,9 +2,9 @@
 ## Course description
 Study of the fundamentals of software engineering principles and practices, including project management, configuration management, requirements definition, system analysis, design, testing, and deployment. Provides students with hands-on experience in a group software development project.
 
-## Source Code
-[Repository](https://github.com/CS3450-Group9/CS3450-Group9) | [Live Site](http://dansautobarn.com)
-> Note: if site is down message [Carter Watson](https://linkedin.com/in/cartwatson) on linkedin
+## View our results
+[Repository](https://github.com/CS3450-Group9/CS3450-Group9)\
+[Use case videos](https://www.youtube.com/playlist?list=PLY7a540W2V3Uface3frI61mU53oRxRQO-)
 
 ## Group Members
 * [Carter Watson](https://github.com/cartwatson)
